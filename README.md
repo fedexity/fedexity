@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://x.com/FedCitywkwt
+<img width="2048" height="512" alt="image" src="https://github.com/user-attachments/assets/4432917a-bedf-4098-bf08-35290f2edfee" />
